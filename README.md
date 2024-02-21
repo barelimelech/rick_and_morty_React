@@ -1,10 +1,27 @@
-# Rick And Morty
 
-## Table of Contents
+![Project Logo](public/images/rick_and_morty.jpg)
+
+Welcome to the Rick And Morty Episode Guide! This project provides a comprehensive list of episodes from the Rick and Morty series, allowing users to explore and find detailed information about each episode.
+
+## Features
+
+### 1. Episode List and Details
+- Browse a complete list of Rick and Morty episodes.
+- View detailed information about each episode, including title, air date, and a brief summary.
+
+### 2. Season Sorting
+- Sort episodes by season for easy navigation.
+
+### 3. Character Search
+- Enter the name of your favorite character to see a list of episodes featuring that character.
+- Get detailed information about each episode, including the season and episode number.
+
+## Getting Started
 - [Installation](#installation)
 - [Production Mode](#production-mode)
 - [Development Mode](#development-mode)
 - [Running the Project](#running-the-project)
+
 
 ## Installation
 Make sure you have Node.js and npm installed on your machine.
